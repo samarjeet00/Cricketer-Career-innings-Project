@@ -1,4 +1,4 @@
-# Data Cleaning and Dashboard Visualization { Practice Project }
+# Cricketer-Career-innings-Project { Practice Project }
 
 ## 📊 Project Overview
 
